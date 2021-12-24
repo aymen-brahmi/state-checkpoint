@@ -1,9 +1,9 @@
 import './App.css';
-import ProfileParent from './component/ProfileParent';
+import ProfileeParent from './component/ProfileeParent';
 function App() {
   return (
     <div className="App">
-      <ProfileParent/>
+      <ProfileeParent/>
     </div>
   );
 }
